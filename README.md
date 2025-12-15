@@ -32,4 +32,10 @@ In conclusion, the Real-Time Chat Application is not only a demonstration of pro
 
 ## OUTPUT
 
+<img width="1873" height="998" alt="Image" src="https://github.com/user-attachments/assets/3d036c5e-17df-4269-9e07-6985ea535df9" />
+
+<img width="1869" height="980" alt="Image" src="https://github.com/user-attachments/assets/1452e6b8-cdfd-43f7-99ac-e7588bb56ff8" />
+
+
+
 
